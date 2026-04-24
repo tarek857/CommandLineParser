@@ -56,3 +56,7 @@ Compile your application using the provided build.sh script or a similar build c
 ```bash
 ./commandline-parser -i 42 -b -s "Hello, world!"
 ```
+
+## License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
